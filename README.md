@@ -1,2 +1,2 @@
 # Dissolved-Oxygen-Project
-Dissolved Oxygen monitoring and data logging system.
+Dissolved oxygen monitoring and data logging system.
